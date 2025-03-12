@@ -1,0 +1,103 @@
+question,answer
+Which if the following is/are the levels of implementation of data structure ?,D
+A binary search tree whose left subtree and right subtree differ in hight by at most 1 unit is called ?,A
+What is the time complexity of inserting an element at the end of an array?,A
+Which data structure is best suited for implementing a recursive algorithm?,A
+In a binary search tree which traversal visits the nodes in ascending order?,B
+Which sorting algorithm has the best average-case time complexity?,A
+What is the worst-case time complexity of quicksort?,C
+Which data structure is used in Depth First Search (DFS) algorithm?,B
+What is the purpose of a hash table in data structures?,C
+Which data structure is used to implement a LIFO behavior?,A
+What is the time complexity of finding an element in a binary search tree?,C
+Which data structure is suitable for implementing a breadth-first search (BFS) algorithm?,A
+Which data structure is typically used to implement a priority queue?,A
+What is the time complexity of searching for an element in a hash table with a good hash function?,D
+Which sorting algorithm is known for its stability?,A
+In a binary search tree which operation is used to find the minimum element?,A
+Which data structure is used to implement a disjoint-set data structure efficiently?,C
+What is the time complexity of finding the shortest path in a weighted graph using Dijkstra's algorithm?,A
+Which data structure is used to implement a cache with a least recently used (LRU) eviction policy?,B
+What is the time complexity of inserting an element in a heap data structure?,D
+Which algorithm is used to find the strongly connected components in a directed graph?,D
+What is the time complexity of the best-case scenario for quicksort?,B
+Worst Case Time complexity of accessing an element from a Linked List,A
+Which of the following is not a fundamental data type in C?,B
+Which of the following is not a valid access specifier in Java?,C
+What is the purpose of the final keyword in Java?,D
+Which of the following is not a valid loop statement in Python?,C
+What is the purpose of the __init__ method in Python?,A
+Which of the following is not a valid HTTP method?,D
+What is the purpose of the JOIN clause in SQL?,A
+Which of the following is not a valid normalization form?,D
+What is the purpose of the HAVING clause in SQL?,C
+What is the primary goal of machine learning?,B
+Which type of machine learning algorithm is trained on labeled data to make predictions on new unseen data?,D
+What is the process of preparing raw data by cleaning transforming and normalizing it for machine learning?,A
+In unsupervised learning the primary task is:,B
+Which machine learning algorithm is inspired by the behavior of neurons in the human brain?,D
+What is the process of feeding a machine learning model with data to adjust its internal parameters and improve performance?,C
+The loss function in a machine learning model measures:,C
+What is the name of the technique used to deal with overfitting in machine learning models?,B
+Which machine learning algorithm is commonly used for classification tasks and is based on finding the best hyperplane that separates data points into different classes?,B
+What is the purpose of feature scaling in machine learning?,A
+What is the purpose of the bias term in a machine learning model?,D
+Which machine learning algorithm is used for dimensionality reduction and can capture the most important features in a dataset?,A
+What is the purpose of the activation function in an artificial neural network?,A
+Which machine learning algorithm is used for clustering data points into groups based on their similarity?,D
+What is the purpose of the validation set in machine learning?,C
+Which machine learning algorithm is used for anomaly detection and can identify outliers in a dataset?,D
+What is the purpose of the learning rate in a machine learning model?,A
+Which machine learning algorithm is used for recommendation systems and can predict the preferences of users based on their past behavior?,D
+What is the purpose of the regularization parameter in a machine learning model?,A
+Which machine learning algorithm is used for natural language processing tasks and can generate human-like text?,D
+Which Experiment says that light is a wave?,A
+What is the purpose of the const keyword in C++?,D
+Which of the following is not a valid access specifier in Java?,D
+What is the purpose of the break statement in a loop?,B
+What is the purpose of the continue statement in a loop?,D
+What is the purpose of the static keyword in C++?,C
+What is the purpose of the virtual keyword in C++?,D
+What is the purpose of the abstract keyword in Java?,D
+What is the purpose of the interface keyword in Java?,A
+What is the purpose of the yield statement in Python?,B
+What is the purpose of the lambda keyword in Python?,A
+What is the purpose of the try-except block in Python?,A
+What is the purpose of the super() function in Python,A
+Which of the following is not a programming language?,C
+Which of the following is not a data structure?,A
+What is the time complexity of the binary search algorithm?,D
+Which of the following is not a type of software testing?,D
+What is the primary purpose of a database management system (DBMS)?,C
+What is the primary function of a switch in a network?,C
+Which of the following is not a type of malware?,D
+What is the primary purpose of normalization in a database?,A
+Which of the following is not a type of cloud computing?,D
+What is the primary purpose of a compiler in programming?,A
+What is the primary function of a router in a network?,B
+Which of the following is not a type of virtualization?,D
+What is the primary purpose of a load balancer in a network?,C
+What is the primary purpose of a cache in computing?,D
+Which of the following is not a type of search algorithm?,D
+Which of the following is not a principle of object-oriented programming?,D
+Which of the following is not a type of network?,D
+In the context of databases what does ACID stand for?,A
+What is the main difference between a stack and a queue?,B
+What is the purpose of the virtual keyword in C++?,D
+What is the main purpose of a Trie data structure?,C
+In the context of computer networks what does TCP stand for?,A
+What is the purpose of the finally block in Java exception handling?,B
+What is the key difference between public and private inheritance in C++?,A
+In the context of machine learning what is overfitting?,A
+What is the key difference between GPU and CPU?,A
+What is the purpose of the volatile keyword in C/C++?,D
+In the context of operating systems what is thrashing?,A
+What is the purpose of the static keyword in Java?,D
+In the context of databases what is denormalization?,A
+What is the purpose of the final keyword in Java?,D
+In the context of computer networks what is a NAT (Network Address Translation)?,A
+What is the purpose of the friend keyword in C++?,A
+In the context of machine learning what is a convolutional neural network (CNN)?,A
+What is the key difference between depth-first search (DFS) and breadth-first search (BFS)?,D
+In the context of computer architecture what is pipelining?,A
+In the context of databases what is an index?,A

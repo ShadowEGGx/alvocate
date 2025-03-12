@@ -1,0 +1,28 @@
+interview_chatbot/
+│── data/                      # Stores raw datasets
+│   ├── logical_reasoning_questions.csv
+│   ├── Leetcode_Questions.csv
+│   ├── cse_dataset.csv
+│   ├── clean_general_aptitude_dataset.csv
+│
+│── models/                    # Store trained NLP models
+│   ├── trained_model.pkl
+│
+│── backend/                   # Backend API with FastAPI
+│   ├── app.py                 # Main backend script
+│   ├── model.py               # ML Model logic
+│   ├── database.py            # Data processing
+│   ├── websocket.py           # WebSocket communication
+│
+│── frontend/                  # React/Next.js Frontend
+│   ├── src/
+│       ├── components/
+│       ├── pages/
+│       ├── App.js
+│
+│── notebooks/                 # Jupyter Notebooks for training
+│   ├── training.ipynb
+│
+│── main.py                    # Main execution script
+│── requirements.txt            # List of dependencies
+│── README.md                   # Project documentation
